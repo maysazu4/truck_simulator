@@ -1,0 +1,20 @@
+[{
+    "road_type": "bad",
+    "length": 1000
+},{
+    "road_type": "rough",
+    "length": 100
+},{
+    "road_type": "smooth",
+    "length": 200
+},{
+    "road_type": "rough",
+    "length": 50000
+},{
+    "road_type": "mountainous",
+    "length": 500
+},{
+    "road_type": "smooth",
+    "length": 200
+}
+]

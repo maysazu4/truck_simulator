@@ -1,0 +1,6 @@
+[{
+    "max_fuel_amount" : 50,
+    "km_per_liter": 30,
+    "price_repair_wheels_per_km": 100,
+    "brand":"KIA"
+}]
